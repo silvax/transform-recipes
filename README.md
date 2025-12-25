@@ -1,14 +1,14 @@
-🍳 Transform Recipes
+# 🍳 Transform Recipes#
 
 Battle-tested AWS Transform Custom recipes for automating cloud best practices. From observability to security, transform your infrastructure in minutes with atx.
 
-What is This?
+## What is This? ##
 
 Transform Recipes is a community-driven collection of transformation definitions for AWS Transform Custom. Each recipe automates the implementation of cloud best practices—turning hours or days of manual configuration into minutes of AI-powered automation.
 
 Whether you need to instrument your application for observability, harden security configurations, or implement governance policies, there's likely a recipe here that can help.
 
-Why Use Transform Recipes?
+## Why Use Transform Recipes? ##
 
 Save Time: What used to take days of reading documentation, writing code, and debugging now takes minutes.
 
@@ -18,7 +18,7 @@ Best Practices Built-In: Each transformation implements AWS Well-Architected Fra
 
 Learn by Example: See exactly what changes AWS Transform Custom makes to your infrastructure and application code.
 
-Quick Start
+## Quick Start ##
 Install AWS Transform Custom CLI
 Browse Available Recipes
 
@@ -41,14 +41,14 @@ Validate the Results
 
 Follow the validation steps in validation.md to confirm everything is working correctly.
 
-Featured Recipes
+## Featured Recipes ##
 
 CloudWatch Application Signals - ECS Daemon Strategy
 Automatically instrument your ECS applications with OpenTelemetry and configure CloudWatch Application Signals for end-to-end observability.
 
 Time: ~20 minutes | Cost: ~$0.70 | View Recipe →
 
-Contributing
+## Contributing ##
 
 We welcome contributions! Whether you have a new recipe to share or improvements to existing ones, please see our Contributing Guidelines.
 
@@ -59,7 +59,7 @@ Quick contribution checklist:
 • [ ] Includes cost and time estimates
 • [ ] Documents validation steps
 
-Recipe Structure
+## Recipe Structure ##
 
 Each recipe follows a consistent structure to make them easy to use and contribute:
 
@@ -71,7 +71,7 @@ Documentation
 • Best Practices - Tips for writing great transformations
 • Troubleshooting - Common issues and solutions
 
-Cost Transparency
+## Cost Transparency ##
 
 Each recipe includes estimated costs for running the transformation. Actual costs may vary based on:
 • Your AWS region
@@ -81,20 +81,20 @@ Each recipe includes estimated costs for running the transformation. Actual cost
 
 Always test transformations in a non-production environment first.
 
-Community & Support
+## Community & Support ##
 • Questions? Open a GitHub Discussion
 • Found a bug? Submit an Issue
 • Want to contribute? Read our Contributing Guidelines
 • Need help? Check the Troubleshooting Guide
 
-Related Resources
+## Related Resources ##
 • AWS Transform Custom
 • AWS Well-Architected Framework
 • AWS Builder Center
 • CloudWatch Application Signals
 • AWS Distro for OpenTelemetry
 
-License
+## License ##
 
 This repository is licensed under the MIT License. See LICENSE for details.
 
